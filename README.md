@@ -1,32 +1,39 @@
 # 🤖 Robotics Project
 
-[![Robotics](https://img.shields.io/badge/🤖-Robotics-blue?style=for-the-badge)](#robotics)
-[![Task](https://img.shields.io/badge/📋-Task-green?style=for-the-badge)](#task)
-[![Credits](https://img.shields.io/badge/👥-Credits-purple?style=for-the-badge)](#credits)
+Welcome to our Robotics project repository. This repository is used to practice Git and GitHub collaboration by creating branches, making changes, submitting Pull Requests, and merging them into the "main" branch.
 
----
 
-## 🤖 Robotics
 
-This repository is for our Robotics class project. Each member is required to create their own branch, make changes, and submit a Pull Request to merge their work into the main branch.
+# 📋 Task
 
----
+### Status: 2/4 Complete
 
-## 📋 Task
+## Objectives
 
-**Status:** **2/4 Complete**
-
-### Objectives
 - ✅ Create a personal branch.
-- ✅ Make changes in the branch.
-- ⏳ Submit a Pull Request.
-- ⏳ Merge the Pull Request after review.
+- ✅ Make changes in the personal branch.
+- ⏳ Create a Pull Request.
+- ⏳ Merge the Pull Request into the "main" branch.
 
-> **Progress:** 2 out of 4 required steps have been completed.
+«**Progress: 2 out of 4** required steps have been completed.»
 
----
 
-## 👥 Credits
+
+# 🚀 Pull Requests
+
+## Completed
+
+""Sasha - Pull Request" (https://img.shields.io/badge/Sasha-Pull%20Request-success?style=for-the-badge&logo=github)" (https://github.com/CodeByFrietz/group-1-patrick/pull/2)
+
+**Created by: Sasha Brielle V. Tapdasan**
+
+<br>""Khana - Pull Request" (https://img.shields.io/badge/Khana-Pull%20Request-success?style=for-the-badge&logo=github)" (https://github.com/CodeByFrietz/group-1-patrick/pull/3)
+
+**Created by: Khana Queen Padilla**
+
+
+
+# 👥 Credits
 
 ### Group 1
 
