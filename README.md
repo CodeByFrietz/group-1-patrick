@@ -23,13 +23,15 @@ Welcome to our Robotics project repository. This repository is used to practice 
 
 ## Completed
 
-""Sasha - Pull Request" (https://img.shields.io/badge/Sasha-Pull%20Request-success?style=for-the-badge&logo=github)" (https://github.com/CodeByFrietz/group-1-patrick/pull/2)
+[![Sasha - Pull Request](https://img.shields.io/badge/Sasha-Pull%20Request-success?style=for-the-badge&logo=github)](https://github.com/CodeByFrietz/group-1-patrick/pull/2)
 
-**Created by: Sasha Brielle V. Tapdasan**
+**Created by:** Sasha Brielle V. Tapdasan
 
-<br>""Khana - Pull Request" (https://img.shields.io/badge/Khana-Pull%20Request-success?style=for-the-badge&logo=github)" (https://github.com/CodeByFrietz/group-1-patrick/pull/3)
+<br>
 
-**Created by: Khana Queen Padilla**
+[![Khana - Pull Request](https://img.shields.io/badge/Khana-Pull%20Request-success?style=for-the-badge&logo=github)](https://github.com/CodeByFrietz/group-1-patrick/pull/3)
+
+**Created by:** Khana Queen Padilla
 
 
 
