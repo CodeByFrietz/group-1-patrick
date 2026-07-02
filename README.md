@@ -6,7 +6,7 @@ Welcome to our Robotics project repository. This repository is used to practice 
 
 # 📋 Task
 
-### Status: 3/4 Complete
+### Status: 3/5 Complete
 
 ## Objectives
 
@@ -15,7 +15,7 @@ Welcome to our Robotics project repository. This repository is used to practice 
 - ⏳ Create a Pull Request.
 - ⏳ Merge the Pull Request into the "main" branch.
 
-«**Progress: 3 out of 4** required steps have been completed.»
+«**Progress: 3 out of 5** required steps have been completed.»
 
 
 
