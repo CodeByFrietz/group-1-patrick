@@ -35,7 +35,7 @@ Welcome to our Robotics project repository. This repository is used to practice 
 
 <br>
 
-[![Marth - Pull Request](https://img.shields.io/badge/Khana-Pull%20Request-success?style=for-the-badge&logo=github)](https://github.com/CodeByFrietz/group-1-patrick/pull/4)
+[![Marth - Pull Request](https://img.shields.io/badge/Marth-Pull%20Request-success?style=for-the-badge&logo=github)](https://github.com/CodeByFrietz/group-1-patrick/pull/4)
 
 **Created by:** Marth James P. Patenio
 
