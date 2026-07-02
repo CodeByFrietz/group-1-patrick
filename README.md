@@ -6,7 +6,7 @@ Welcome to our Robotics project repository. This repository is used to practice 
 
 # 📋 Task
 
-### Status: 2/4 Complete
+### Status: 3/4 Complete
 
 ## Objectives
 
@@ -15,7 +15,7 @@ Welcome to our Robotics project repository. This repository is used to practice 
 - ⏳ Create a Pull Request.
 - ⏳ Merge the Pull Request into the "main" branch.
 
-«**Progress: 2 out of 4** required steps have been completed.»
+«**Progress: 3 out of 4** required steps have been completed.»
 
 
 
@@ -33,7 +33,11 @@ Welcome to our Robotics project repository. This repository is used to practice 
 
 **Created by:** Khana Queen Padilla
 
+<br>
 
+[![Marth - Pull Request](https://img.shields.io/badge/Khana-Pull%20Request-success?style=for-the-badge&logo=github)](https://github.com/CodeByFrietz/group-1-patrick/pull/4)
+
+**Created by:** Marth James P. Patenio
 
 # 👥 Credits
 
